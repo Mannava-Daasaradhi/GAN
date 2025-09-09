@@ -1,0 +1,8 @@
+              precision    recall  f1-score   support
+
+       No DR       0.94      0.98      0.96       361
+  DR Present       0.98      0.96      0.97       572
+
+    accuracy                           0.97       933
+   macro avg       0.96      0.97      0.97       933
+weighted avg       0.97      0.97      0.97       933
