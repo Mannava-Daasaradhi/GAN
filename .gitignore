@@ -1,4 +1,5 @@
 data/
 gan/
 synthetic_cgan/
-synthetic_images
+synthetic_images/
+best_resnet50_risk.pth
