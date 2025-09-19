@@ -1,8 +1,0 @@
-              precision    recall  f1-score   support
-
-       No DR       0.99      0.99      0.99       361
-  DR Present       0.99      1.00      0.99       572
-
-    accuracy                           0.99       933
-   macro avg       0.99      0.99      0.99       933
-weighted avg       0.99      0.99      0.99       933
