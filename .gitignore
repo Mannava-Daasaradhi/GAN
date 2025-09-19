@@ -3,3 +3,7 @@ gan/
 synthetic_cgan/
 synthetic_images/
 best_resnet50_risk.pth
+Melanoma.py
+DR_Phase2_ResNet/
+DR_Phase2/
+DSA_GAN_Melanoma_ (7).pdf
